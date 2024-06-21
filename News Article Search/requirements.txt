@@ -1,0 +1,14 @@
+transformers 
+einops 
+accelerate 
+langchain 
+bitsandbytes
+sentence_transformers 
+langchain_community
+unstructured 
+libmagic 
+python-magic 
+faiss-cpu
+langchain_huggingface
+python-dotenv
+streamlit
